@@ -1,4 +1,3 @@
-
 public class Window extends Event{
     public void open() {
         System.out.println("Opening window");
