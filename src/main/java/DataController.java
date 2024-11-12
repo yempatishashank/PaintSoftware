@@ -9,5 +9,4 @@ public class DataController {
         Circle circle = new Circle(5.0f,0);
         System.out.printf("Circle area: %.2f sq.mt" ,circle.area());
     }
-
 }
