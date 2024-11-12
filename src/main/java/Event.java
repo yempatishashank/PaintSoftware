@@ -1,4 +1,3 @@
-
 public class Event {
     public static void event()
     {
